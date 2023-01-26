@@ -8,8 +8,3 @@ When all packages have been installed run:
 ```
 npm start
 ```
-
-Run json-server
-```
-json-server --watch db.json --port 3004
-```

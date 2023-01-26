@@ -28,7 +28,6 @@
     "axios": "^1.2.3",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-base": "^15.0.0",
-    "json-server": "^0.17.1",
     "metro4": "^4.3.10",
     "metro4-dist": "^4.5.0"
   }
