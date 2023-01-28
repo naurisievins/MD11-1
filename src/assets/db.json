@@ -32,6 +32,8 @@
     }
   ],
   "data": [
+    [1,"Afghanistan","Kabul","Afghan afghani","Pashto"],
+    [2,"Albania","Tirana","Albanian lek","Albanian"],
     [3,"Algeria","Algiers","Algerian dinar","Arabic"],
     [4,"American Samoa","Pago Pago","United State Dollar","English"],
     [5,"Andorra","Andorra la Vella","Euro","Catalan"],
